@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1601223298 source:c:\users\user\desktop\bio\biosensor\main.c
+	<stdio.h>
+	<string.h>
+
+1601223492 source:c:\users\user\desktop\bio\biosensor\src\waste.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
